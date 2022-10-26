@@ -1,0 +1,160 @@
+section{
+    display: flex;
+    flex-wrap: wrap;
+    .img1{
+        background-size: cover;
+        width: 350px;
+        height: 200px;
+       
+    background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/1.jpg);
+    div{
+        display: none;
+        
+    }
+    
+
+    .img1.div:hover{
+        
+       
+        div{
+            
+            width: 350px;
+            height: 200px;
+            background-color: rgba(172, 37, 37, 0.704);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+                color: antiquewhite;
+            
+    }
+    }
+    }
+    .img2{ width: 350px;
+        height: 200px;
+        background-size: cover;
+       
+        background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/2.jpg);
+        div{
+            display: none;
+            
+        }
+        
+    
+        &:hover{
+            div{
+                width: 350px;
+                height: 200px;
+                background-color: rgba(172, 37, 37, 0.704);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                
+                    color: antiquewhite;
+                
+        }
+        }
+        }
+        .img3{ width: 350px;
+            height: 200px;
+            background-size: cover;
+            background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/3.jpg);
+            div{
+                display: none;
+                
+            }
+            
+        
+            &:hover{
+                div{
+                    width: 350px;
+                    height: 200px;
+                    background-color: rgba(172, 37, 37, 0.704);
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    
+                        color: antiquewhite;
+                    
+            }
+            }
+            }
+            .img4{ width: 350px;
+                height: 200px;
+                background-size: cover;
+                background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/4.jpg);
+                div{
+                    display: none;
+                    
+                }
+                
+            
+                &:hover{
+                    div{
+                        width: 350px;
+                        height: 200px;
+                        background-color: rgba(172, 37, 37, 0.704);
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        flex-direction: column;
+                        
+                            color: antiquewhite;
+                        
+                }
+                }
+                } .img5{ width: 350px;
+                    height: 200px;
+                    background-size: cover;
+                    background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/5.jpg);
+                    div{
+                        display: none;
+                        
+                    }
+                    
+                
+                    &:hover{
+                        div{
+                            width: 350px;
+                            height: 200px;
+                            background-color: rgba(172, 37, 37, 0.704);
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            flex-direction: column;
+                            
+                                color: antiquewhite;
+                            
+                    }
+                    }
+                    }
+                    .img6{ width: 350px;
+                        height: 200px;
+                        background-size: cover;
+                        background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/portfolio/thumbnails/6.jpg);
+                        div{
+                            display: none;
+                            
+                        }
+                        
+                    
+                        &:hover{
+                            div{
+                                width: 350px;
+                                height: 200px;
+                                background-color: rgba(172, 37, 37, 0.704);
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                flex-direction: column;
+                                
+                                    color: antiquewhite;
+                                
+                        }
+                        }
+   
+                    }}
+                    
